@@ -1,0 +1,46 @@
+body{
+    padding-top: 50px;
+    padding-left: 700px;
+    padding-right: 700px;
+    background-color: rgb(149, 160, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 4ch;
+}
+
+label{
+    font-size: 20px;
+}
+
+select{
+    width: 300px;
+    height: 28px;
+}
+
+h1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(149, 160, 255);
+    height: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.rform{
+    border: black ;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+input{
+    width: 300px;
+    height: 28px;
+}
+
+button{
+    line-height: 4ch;
+    height: 45px;
+    width: 130px;
+}
+
+.abc{
+    background-color:aqua;
+}
